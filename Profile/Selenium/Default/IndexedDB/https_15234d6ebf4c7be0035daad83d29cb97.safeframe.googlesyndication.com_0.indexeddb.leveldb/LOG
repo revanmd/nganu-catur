@@ -1,0 +1,7 @@
+2023/05/05-10:28:29.853 4828 Reusing MANIFEST C:\Users\revan\workspace\stockfish\chess-com-bot-selenium\Profile\Selenium\Default\IndexedDB\https_15234d6ebf4c7be0035daad83d29cb97.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/05-10:28:29.853 4828 Recovering log #3
+2023/05/05-10:28:29.853 4828 Reusing old log C:\Users\revan\workspace\stockfish\chess-com-bot-selenium\Profile\Selenium\Default\IndexedDB\https_15234d6ebf4c7be0035daad83d29cb97.safeframe.googlesyndication.com_0.indexeddb.leveldb/000003.log 
+2023/05/05-10:29:02.373 6f74 Level-0 table #5: started
+2023/05/05-10:29:02.375 6f74 Level-0 table #5: 460 bytes OK
+2023/05/05-10:29:02.376 6f74 Delete type=0 #3
+2023/05/05-10:29:02.376 6f74 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
